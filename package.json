@@ -20,7 +20,7 @@
     "eslint-plugin-react": "^5.1.1"
   },
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "connect-flash": "^0.1.1",
     "dotenv": "^5.0.1",
     "ejs": "^2.5.7",
